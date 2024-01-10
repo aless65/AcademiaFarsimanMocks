@@ -64,7 +64,7 @@ namespace AcademiaFarsiman.Api.Features.Personas.Services
             return Respuesta<PersonaDto>.Success(dto);
         }
 
-        public async Task<Respuesta<PersonaDto>> CrearPersona(RegistroPersonaDto registroDto)
+        public virtual async Task<Respuesta<PersonaDto>> CrearPersona(RegistroPersonaDto registroDto)
         {
             try
             {
