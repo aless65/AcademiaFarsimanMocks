@@ -19,7 +19,7 @@
         "FS_SQL_ACADEMIA_FARSIMAN_USER": "Desarrollo",
         "FS_SQL_ACADEMIA_FARSIMAN_PASSWORD": "dsrcorp",
         "FS_SQL_ACADEMIA_FARSIMAN_DB": "AcademiaFarsiman",
-        "FS_SQL_ACADEMIA_FARSIMAN_SERVER": "192.168.1.34"
+        "FS_SQL_ACADEMIA_FARSIMAN_SERVER": "192.168.1.33"
       }
     },
     "AcademiaFarsiman.Api": {
